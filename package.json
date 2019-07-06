@@ -1,0 +1,32 @@
+{
+  "name": "chatapp-node",
+  "version": "1.0.0",
+  "description": "its a chat room with usually just me",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobbbs/chatapp-node.git"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
+  "author": "Tobin Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobbbs/chatapp-node/issues"
+  },
+  "homepage": "https://github.com/tobbbs/chatapp-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "path": "^0.12.7"
+  }
+}

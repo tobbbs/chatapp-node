@@ -1,0 +1,49 @@
+a:link    {color:#000;}  
+a:visited {color:#000;}  
+a:hover   {color: #144e21d6;}  
+a:active  {color:#000;}
+
+#new_messages{
+	height: 600px;
+	overflow-y: scroll;
+	max-width: 900;
+	background-color: #ececf5;
+	text-align: left;
+	border: 1px solid black;
+}
+.username{
+	color: blue;
+}
+.window{
+	border: 30px;
+	background-color:#d1d1ea;
+}
+#message_entry{
+	
+}
+#title{
+	font-size: 32px;
+	border-top: 20px solid #d1d1ea;
+}
+#descriptiion{
+	font-size: 12px;
+}
+hr.f {
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-width: 0;
+    border-top: 1px solid #000;
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+}
+#Instagram{
+	background-color: transparent;
+	width: 25px;
+	height: 25px;
+	background-color:#d1d1ea;
+}
+#background{
+	background-color:#d1d1ea ;
+	height: 805px;
+}
